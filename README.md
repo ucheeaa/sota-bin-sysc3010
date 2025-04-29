@@ -135,23 +135,23 @@ cd "SOTA BIN MAIN/RPi3/WEB"
 
 ## Appendix
 
-### 1. Physical Top View Setup of Sota Bin
+### 1. Demo Video
+[Watch our team demo](https://drive.google.com/file/d/1fRHqAzUy3opVh30cdAlYEY83HoeIrf7v/view?usp=sharing)
+
+### 2. Physical Top View Setup of Sota Bin
 ![System Design](./Project_Images/sota_bin_top_view.jpg)
 
-### 2. RPi1 Peripheral Devices Circuit Connection
+### 3. RPi1 Peripheral Devices Circuit Connection
 ![RPi1 Peripherals](./Project_Images/RPi1_peripherals.png)
 
-### 3. Bin Full IR Sensor Detection
+### 4. Bin Full IR Sensor Detection
 ![Bin Full - IR Sensor](./Project_Images/IR_sensor_bin_full.jpg)
 
-### 4. Sense HAT Notification Beem RPi3 /RPi4
+### 5. Sense HAT Notification Beem RPi3 /RPi4
 ![Sense HAT](./Project_Images/sense_hat_bin_full.png)
 
-### 5. Physical Motors Set Up (RPi2)
+### 6. Physical Motors Set Up (RPi2)
 ![Motors](./Project_Images/servo_stepper_motor.jpg)
-
-### 6. Demo Video
-[▶️ Watch our team demo](https://drive.google.com/file/d/1fRHqAzUy3opVh30cdAlYEY83HoeIrf7v/view?usp=sharing)
 
 ### 7. Team Members
 ![Team Photo](./Project_Images/L2-G3_members.jpg)
